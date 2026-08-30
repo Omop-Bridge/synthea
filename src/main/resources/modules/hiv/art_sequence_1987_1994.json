@@ -16,9 +16,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 199663,
-          "display": "zidovudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01759",
+          "display": "Zidovudine 300mg Tablet"
         }
       ],
       "direct_transition": "Terminal",

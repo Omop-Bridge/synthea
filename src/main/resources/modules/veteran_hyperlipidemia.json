@@ -202,9 +202,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 314231,
-          "display": "Simvastatin 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00933",
+          "display": "Atorvastatin 5mg Tablet"
         }
       ],
       "direct_transition": "followup encounter end",
@@ -807,9 +807,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 314231,
-          "display": "Simvastatin 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00933",
+          "display": "Atorvastatin 5mg Tablet"
         }
       ],
       "reason": "hyperlipidemia",

@@ -656,9 +656,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 313002,
-          "display": "Sodium Chloride 9 MG/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-01483",
+          "display": "Sodium chloride 0.9% Injectable Solution"
         }
       ],
       "direct_transition": "Antiemetic",
@@ -668,9 +668,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1740467,
-          "display": "2 ML Ondansetron 2 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-01166",
+          "display": "Ondansetron 2mg/mL Injection"
         }
       ],
       "direct_transition": "Antiemetic_End",
@@ -684,9 +684,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1732136,
-          "display": "1 ML Morphine Sulfate 5 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-01082",
+          "display": "Morphine 10mg/1mL Injection"
         }
       ],
       "direct_transition": "Delay_for_Surgical_Appointment",
@@ -1184,9 +1184,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1659149,
-          "display": "Piperacillin 4000 MG / tazobactam 500 MG Injection"
+          "system": "KEML",
+          "code": "KEML-01266",
+          "display": "Piperacillin + Tazobactam 4g+0.5g Powder for Injection"
         }
       ],
       "direct_transition": "Penicillin_End",
@@ -1200,9 +1200,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1656318,
-          "display": "Cefotaxime 2000 MG Injection"
+          "system": "KEML",
+          "code": "KEML-00277",
+          "display": "Cefotaxime 1g Powder for Injection"
         }
       ],
       "remarks": [
@@ -1310,9 +1310,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1659263",
-          "display": "1 ML heparin sodium, porcine 5000 UNT/ML Injection"
+          "system": "KEML",
+          "code": "KEML-00730",
+          "display": "Heparin sodium 5,000 IU/mL Injection"
         }
       ],
       "direct_transition": "Heparin_End",

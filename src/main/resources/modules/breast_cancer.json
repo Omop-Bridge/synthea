@@ -1009,9 +1009,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": "198240",
-                    "display": "Tamoxifen 10 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-01547",
+                    "display": "Tamoxifen 20mg Tablet"
                   }
                 ]
               },
@@ -1095,9 +1095,9 @@
                     "condition_type": "Active Medication",
                     "codes": [
                       {
-                        "system": "RxNorm",
-                        "code": "199224",
-                        "display": "anastrozole 1 MG Oral Tablet"
+                        "system": "KEML",
+                        "code": "KEML-00073",
+                        "display": "Anastrozole 1mg Tablet"
                       }
                     ]
                   },
@@ -1105,9 +1105,9 @@
                     "condition_type": "Active Medication",
                     "codes": [
                       {
-                        "system": "RxNorm",
-                        "code": "200064",
-                        "display": "letrozole 2.5 MG Oral Tablet"
+                        "system": "KEML",
+                        "code": "KEML-00891",
+                        "display": "Letrozole 2.5mg Tablet"
                       }
                     ]
                   }
@@ -1546,9 +1546,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1790099,
-          "display": "10 ML Doxorubicin Hydrochloride 2 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-00518",
+          "display": "Doxorubicin 50mg Powder for Injection"
         }
       ],
       "remarks": [
@@ -1579,9 +1579,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 583214,
-          "display": "Paclitaxel 100 MG Injection"
+          "system": "KEML",
+          "code": "KEML-01180",
+          "display": "Paclitaxel 6mg/mL Injection"
         }
       ],
       "direct_transition": "Neoadjuvant chemotherapy procedure",

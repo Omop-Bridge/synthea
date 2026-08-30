@@ -16,9 +16,9 @@
       "direct_transition": "d4T",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 199663,
-          "display": "zidovudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01759",
+          "display": "Zidovudine 300mg Tablet"
         }
       ]
     },
@@ -60,9 +60,9 @@
       "direct_transition": "3TC+TDF",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 349491,
-          "display": "lamivudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00867",
+          "display": "Lamivudine 150mg Tablet"
         }
       ]
     },
@@ -71,9 +71,9 @@
       "direct_transition": "ATV",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 200082,
-          "display": "lamivudine 150 MG / zidovudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01764",
+          "display": "Zidovudine + Lamivudine 300+150mg Tablet"
         }
       ]
     },
@@ -104,9 +104,9 @@
       "direct_transition": "Terminal",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 317150,
-          "display": "ritonavir 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-01418",
+          "display": "Ritonavir 100mg Tablet"
         }
       ]
     },
@@ -115,9 +115,9 @@
       "direct_transition": "SQV",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 317150,
-          "display": "ritonavir 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-01418",
+          "display": "Ritonavir 100mg Tablet"
         }
       ]
     },
@@ -137,9 +137,9 @@
       "direct_transition": "EFV+FTC+TDF",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 349477,
-          "display": "efavirenz 600 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01611",
+          "display": "Efavirenz"
         }
       ]
     },
@@ -148,9 +148,9 @@
       "direct_transition": "NEL",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 597730,
-          "display": "lopinavir 200 MG / ritonavir 50 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00953",
+          "display": "Lopinavir + ritonavir 200+50mg Tablet"
         }
       ]
     },
@@ -159,9 +159,9 @@
       "direct_transition": "ZDV",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 349251,
-          "display": "tenofovir disoproxil fumarate 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01594",
+          "display": "Tenofovir disoproxil fumarate 300mg Tablet"
         }
       ]
     },
@@ -170,9 +170,9 @@
       "direct_transition": "FTC+RPV+TDF",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 403875,
-          "display": "emtricitabine 200 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-01597",
+          "display": "Emtricitabine"
         }
       ]
     },
@@ -181,9 +181,9 @@
       "direct_transition": "IDV",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 476556,
-          "display": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01598",
+          "display": "Tenofovir disoproxil fumarate + Emtricitabine 300+200mg Tablet"
         }
       ]
     },
@@ -203,9 +203,9 @@
       "direct_transition": "EVG+cobi+FTC+TAF",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 643066,
-          "display": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01612",
+          "display": "Tenofovir disoproxil fumarate + Lamivudine + Efavirenz 300+300+400mg Tablet"
         }
       ]
     },
@@ -236,9 +236,9 @@
       "direct_transition": "DTG+3TC",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1433873,
-          "display": "dolutegravir 50 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00503",
+          "display": "Dolutegravir 50mg Tablet"
         }
       ]
     },
@@ -269,9 +269,9 @@
       "direct_transition": "DTG",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1359269,
-          "display": "darunavir 800 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00423",
+          "display": "Darunavir 600mg Tablet"
         }
       ]
     },
@@ -280,9 +280,9 @@
       "direct_transition": "3TC+ZDV",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 2003249,
-          "display": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01602",
+          "display": "Tenofovir disoproxil fumarate + Lamivudine 300+300mg Tablet"
         }
       ]
     },
@@ -324,9 +324,9 @@
       "direct_transition": "EFV",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 2122519,
-          "display": "dolutegravir 50 MG / lamivudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01592",
+          "display": "Tenofovir Alafenamide + Lamivudine + Dolutegravir 25+300+50mg Tablet"
         }
       ]
     }

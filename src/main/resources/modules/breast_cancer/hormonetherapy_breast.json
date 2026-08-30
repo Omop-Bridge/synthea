@@ -98,9 +98,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 200064,
-          "display": "letrozole 2.5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00891",
+          "display": "Letrozole 2.5mg Tablet"
         }
       ],
       "direct_transition": "ER_medication_end",
@@ -124,9 +124,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 199224,
-          "display": "anastrozole 1 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00073",
+          "display": "Anastrozole 1mg Tablet"
         }
       ],
       "direct_transition": "ER_medication_end",
@@ -364,9 +364,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1601380,
-          "display": "palbociclib 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-01182",
+          "display": "Palbociclib 75mg Tablet"
         }
       ],
       "direct_transition": "ER_PR_medication_end",
@@ -468,9 +468,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 198240,
-          "display": "Tamoxifen 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01547",
+          "display": "Tamoxifen 20mg Tablet"
         }
       ],
       "direct_transition": "ER_medication_end",

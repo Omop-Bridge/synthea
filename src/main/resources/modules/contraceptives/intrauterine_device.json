@@ -249,9 +249,9 @@
       "assign_to_attribute": "contraceptive",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "807283",
-          "display": "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]"
+          "system": "KEML",
+          "code": "KEML-00912",
+          "display": "Levonorgestrel Intrauterine System"
         }
       ],
       "direct_transition": "End_Consultation_Encounter",
@@ -262,9 +262,9 @@
       "assign_to_attribute": "contraceptive",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1605257",
-          "display": "levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]"
+          "system": "KEML",
+          "code": "KEML-00912",
+          "display": "Levonorgestrel Intrauterine System"
         }
       ],
       "direct_transition": "End_Consultation_Encounter",
@@ -275,9 +275,9 @@
       "assign_to_attribute": "contraceptive",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1856546",
-          "display": "levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]"
+          "system": "KEML",
+          "code": "KEML-00912",
+          "display": "Levonorgestrel Intrauterine System"
         }
       ],
       "direct_transition": "End_Consultation_Encounter",

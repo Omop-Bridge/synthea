@@ -217,9 +217,9 @@
       "target_encounter": "Allergist_Initial_Visit",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1191,
-          "display": "Aspirin"
+          "system": "KEML",
+          "code": "KEML-00008",
+          "display": "Acetylsalicylic acid"
         }
       ],
       "reactions": [
@@ -336,8 +336,8 @@
       "target_encounter": "Allergist_Initial_Visit",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "5640",
+          "system": "KEML",
+          "code": "KEML-00779",
           "display": "Ibuprofen"
         }
       ],
@@ -420,9 +420,9 @@
       "target_encounter": "Allergist_Initial_Visit",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "10831",
-          "display": "Sulfamethoxazole / Trimethoprim"
+          "system": "KEML",
+          "code": "KEML-00380",
+          "display": "Co-trimoxazole"
         }
       ],
       "reactions": [
@@ -520,59 +520,39 @@
       "target_encounter": "Allergist_Initial_Visit",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "25037",
-          "display": "cefdinir"
+          "system": "KEML",
+          "code": "KEML-00268",
+          "display": "Cefalexin 250mg Capsule"
         },
         {
-          "system": "RxNorm",
-          "code": "25033",
-          "display": "Cefixime"
+          "system": "KEML",
+          "code": "KEML-00274",
+          "display": "Cefixime 400mg Tablet"
         },
         {
-          "system": "RxNorm",
-          "code": "20489",
-          "display": "cefpodoxime"
+          "system": "KEML",
+          "code": "KEML-00277",
+          "display": "Cefotaxime 1g Powder for Injection"
         },
         {
-          "system": "RxNorm",
-          "code": "2191",
-          "display": "Ceftazidime"
+          "system": "KEML",
+          "code": "KEML-00280",
+          "display": "Ceftazidime 1g Powder for Injection"
         },
         {
-          "system": "RxNorm",
-          "code": "2193",
-          "display": "Ceftriaxone"
+          "system": "KEML",
+          "code": "KEML-00283",
+          "display": "Ceftriaxone 1g Injection"
         },
         {
-          "system": "RxNorm",
-          "code": "2180",
-          "display": "Cefazolin"
+          "system": "KEML",
+          "code": "KEML-00272",
+          "display": "Cefazolin 1g Powder for Injection"
         },
         {
-          "system": "RxNorm",
-          "code": "2231",
-          "display": "Cephalexin"
-        },
-        {
-          "system": "RxNorm",
-          "code": "2176",
-          "display": "Cefaclor"
-        },
-        {
-          "system": "RxNorm",
-          "code": "20481",
-          "display": "cefepime"
-        },
-        {
-          "system": "RxNorm",
-          "code": "2189",
-          "display": "Cefoxitin"
-        },
-        {
-          "system": "RxNorm",
-          "code": "2194",
-          "display": "Cefuroxime"
+          "system": "KEML",
+          "code": "KEML-00285",
+          "display": "Cefuroxime 750mg Powder for Injection"
         }
       ],
       "reactions": [
@@ -681,8 +661,8 @@
           "display": "Captopril"
         },
         {
-          "system": "RxNorm",
-          "code": "3827",
+          "system": "KEML",
+          "code": "KEML-00538",
           "display": "Enalapril"
         },
         {

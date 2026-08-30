@@ -333,9 +333,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1719286,
-          "display": "10 ML Furosemide 10 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-00661",
+          "display": "Furosemide 10mg/mL Injection"
         }
       ],
       "reason": "chf",
@@ -1169,14 +1169,14 @@
       "direct_transition": "Assign CHF care plan",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 198405,
-          "display": "Ibuprofen 100 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00780",
+          "display": "Ibuprofen 100mg/5mL Oral Liquid"
         },
         {
-          "system": "RxNorm",
-          "code": 310965,
-          "display": "Ibuprofen 200 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00781",
+          "display": "Ibuprofen 200mg Tablet"
         }
       ]
     },
@@ -1367,9 +1367,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1719286,
-          "display": "10 ML Furosemide 10 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-00661",
+          "display": "Furosemide 10mg/mL Injection"
         }
       ],
       "reason": "chf",

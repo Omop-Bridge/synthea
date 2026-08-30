@@ -143,9 +143,9 @@
       "assign_to_attribute": "contraceptive",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1366343",
-          "display": "Levonorgestrel 0.00354 MG/HR Drug Implant"
+          "system": "KEML",
+          "code": "KEML-00912",
+          "display": "Levonorgestrel Intrauterine System"
         }
       ],
       "direct_transition": "Initial_Implant",
@@ -156,9 +156,9 @@
       "assign_to_attribute": "contraceptive",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "389221",
-          "display": "Etonogestrel 68 MG Drug Implant"
+          "system": "KEML",
+          "code": "KEML-00912",
+          "display": "Levonorgestrel Intrauterine System"
         }
       ],
       "direct_transition": "Initial_Implant",
@@ -169,9 +169,9 @@
       "assign_to_attribute": "contraceptive",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "389221",
-          "display": "Etonogestrel 68 MG Drug Implant"
+          "system": "KEML",
+          "code": "KEML-00912",
+          "display": "Levonorgestrel Intrauterine System"
         }
       ],
       "direct_transition": "Initial_Implant",

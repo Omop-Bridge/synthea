@@ -1218,9 +1218,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1665227,
-          "display": "20 ML Ciprofloxacin 10 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-00316",
+          "display": "Ciprofloxacin 400mg Injection"
         }
       ],
       "direct_transition": "Pulmonary_Function_Test",
@@ -1234,9 +1234,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 313572,
-          "display": "Vancomycin 50 MG/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-01713",
+          "display": "Vancomycin 500mg Powder for Injection"
         }
       ],
       "direct_transition": "Pulmonary_Function_Test",

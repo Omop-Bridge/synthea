@@ -52,9 +52,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 311700,
-          "display": "Midazolam 1 MG/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-01060",
+          "display": "Midazolam 5mg/mL Injection"
         }
       ],
       "direct_transition": "Midazolam_End",
@@ -86,9 +86,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309845,
-          "display": "Diazepam 5 MG/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-00461",
+          "display": "Diazepam 5mg/mL Injection"
         }
       ],
       "direct_transition": "Diazepam_End",
@@ -98,9 +98,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 238100,
-          "display": "Lorazepam 2 MG/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-00958",
+          "display": "Lorazepam 4mg/1mL Injection"
         }
       ],
       "direct_transition": "Lorazepam_End",
@@ -110,9 +110,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1740467,
-          "display": "2 ML Ondansetron 2 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-01166",
+          "display": "Ondansetron 2mg/mL Injection"
         }
       ],
       "direct_transition": "Antiemetic_End",
@@ -126,9 +126,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1234995,
-          "display": "Rocuronium bromide 10 MG/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-01430",
+          "display": "Rocuronium 10mg/mL Injection"
         }
       ],
       "direct_transition": "Paralytic_End",
@@ -146,9 +146,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1735006",
-          "display": "10 ML Fentanyl 0.05 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-00602",
+          "display": "Fentanyl 50mcg/mL Injection"
         }
       ],
       "direct_transition": "Fentanyl_End",
@@ -219,9 +219,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 542347,
-          "display": "isoflurane 999 MG/ML Inhalation Solution"
+          "system": "KEML",
+          "code": "KEML-00838",
+          "display": "Isoflurane 250mL Inhalation"
         }
       ],
       "direct_transition": "Isoflurane_End",
@@ -266,9 +266,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 200243,
-          "display": "sevoflurane 1000 MG/ML Inhalation Solution"
+          "system": "KEML",
+          "code": "KEML-01460",
+          "display": "Sevoflurane 250mL Inhalation"
         }
       ],
       "direct_transition": "Sevoflurane_End",

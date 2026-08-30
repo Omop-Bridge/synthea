@@ -76,9 +76,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 855332,
-          "display": "Warfarin Sodium 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01748",
+          "display": "Warfarin 5mg Tablet"
         }
       ],
       "direct_transition": "Digoxin",
@@ -89,9 +89,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 897685,
-          "display": "verapamil hydrochloride 80 MG Oral Tablet [Calan]"
+          "system": "KEML",
+          "code": "KEML-01723",
+          "display": "Verapamil 40mg Tablet"
         }
       ],
       "direct_transition": "Warfarin",
@@ -102,9 +102,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 197604,
-          "display": "Digoxin 0.125 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00472",
+          "display": "Digoxin 250mcg Tablet"
         }
       ],
       "reason": "Diagnosis",

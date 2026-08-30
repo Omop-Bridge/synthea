@@ -232,9 +232,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 310325,
-          "display": "ferrous sulfate 325 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00609",
+          "display": "Ferrous salt 60-65mg Tablet"
         }
       ],
       "distributed_transition": [
@@ -252,9 +252,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 2001499,
-          "display": "Vitamin B12 5 MG/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-01735",
+          "display": "Vitamin B12 1mg/mL Injection"
         }
       ],
       "direct_transition": "End Encounter After Medication Rx"

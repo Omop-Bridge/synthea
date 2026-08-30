@@ -223,9 +223,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "979092",
-          "display": "Hydroxychloroquine Sulfate 200 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00769",
+          "display": "Hydroxychloroquine 200mg Tablet"
         }
       ],
       "administration": true,
@@ -249,9 +249,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 308460,
-          "display": "Azithromycin 250 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00128",
+          "display": "Azithromycin 500mg Tablet"
         }
       ],
       "administration": true,
@@ -648,9 +648,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 597730,
-          "display": "lopinavir 200 MG / Ritonavir 50 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00953",
+          "display": "Lopinavir + ritonavir 200+50mg Tablet"
         }
       ],
       "administration": true,
@@ -674,9 +674,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 979485,
-          "display": "Losartan Potassium 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00960",
+          "display": "Losartan 50mg Tablet"
         }
       ],
       "administration": true,
@@ -846,9 +846,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 308460,
-          "display": "Azithromycin 250 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00128",
+          "display": "Azithromycin 500mg Tablet"
         }
       ],
       "administration": true,
@@ -944,9 +944,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 883826,
-          "display": "Tranexamic Acid 650 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01684",
+          "display": "Tranexamic acid 500mg Tablet"
         }
       ],
       "administration": true,

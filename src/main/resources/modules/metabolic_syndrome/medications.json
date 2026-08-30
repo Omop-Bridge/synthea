@@ -24,9 +24,9 @@
                   "condition_type": "Active Medication",
                   "codes": [
                     {
-                      "system": "RxNorm",
-                      "code": "860975",
-                      "display": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet"
+                      "system": "KEML",
+                      "code": "KEML-01017",
+                      "display": "Metformin 500mg Tablet"
                     }
                   ]
                 }
@@ -44,9 +44,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "860975",
-          "display": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01017",
+          "display": "Metformin 500mg Tablet"
         }
       ],
       "reason": "diabetes_stage",
@@ -72,9 +72,9 @@
                   "condition_type": "Active Medication",
                   "codes": [
                     {
-                      "system": "RxNorm",
-                      "code": "897122",
-                      "display": "3 ML liraglutide 6 MG/ML Pen Injector"
+                      "system": "KEML",
+                      "code": "KEML-00693",
+                      "display": "Gliclazide 60mg Modified Release Tablet"
                     }
                   ]
                 }
@@ -97,9 +97,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": "897122",
-                    "display": "3 ML liraglutide 6 MG/ML Pen Injector"
+                    "system": "KEML",
+                    "code": "KEML-00693",
+                    "display": "Gliclazide 60mg Modified Release Tablet"
                   }
                 ]
               }
@@ -116,9 +116,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "897122",
-          "display": "3 ML liraglutide 6 MG/ML Pen Injector"
+          "system": "KEML",
+          "code": "KEML-00693",
+          "display": "Gliclazide 60mg Modified Release Tablet"
         }
       ],
       "reason": "diabetes_stage",
@@ -129,9 +129,9 @@
       "type": "MedicationEnd",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "897122",
-          "display": "3 ML liraglutide 6 MG/ML Pen Injector"
+          "system": "KEML",
+          "code": "KEML-00693",
+          "display": "Gliclazide 60mg Modified Release Tablet"
         }
       ],
       "direct_transition": "Tritherapy"
@@ -155,9 +155,9 @@
                   "condition_type": "Active Medication",
                   "codes": [
                     {
-                      "system": "RxNorm",
-                      "code": "1373463",
-                      "display": "canagliflozin 100 MG Oral Tablet"
+                      "system": "KEML",
+                      "code": "KEML-00530",
+                      "display": "Empagliflozin 25mg Tablet"
                     }
                   ]
                 }
@@ -180,9 +180,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": "1373463",
-                    "display": "canagliflozin 100 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00530",
+                    "display": "Empagliflozin 25mg Tablet"
                   }
                 ]
               }
@@ -199,9 +199,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1373463",
-          "display": "canagliflozin 100 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00530",
+          "display": "Empagliflozin 25mg Tablet"
         }
       ],
       "reason": "diabetes_stage",
@@ -211,9 +211,9 @@
       "type": "MedicationEnd",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1373463",
-          "display": "canagliflozin 100 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00530",
+          "display": "Empagliflozin 25mg Tablet"
         }
       ],
       "direct_transition": "Insulin"
@@ -254,9 +254,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "106892",
-                "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+                "system": "KEML",
+                "code": "KEML-00802",
+                "display": "Insulin intermediate-acting (NPH) 100 IU/mL Injection"
               }
             ]
           },
@@ -270,9 +270,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "865098",
-                "display": "Insulin Lispro 100 UNT/ML Injectable Solution [Humalog]"
+                "system": "KEML",
+                "code": "KEML-00818",
+                "display": "Insulin Ultra short-acting 100 IU/mL Injection"
               }
             ]
           },
@@ -293,9 +293,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "106892",
-          "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+          "system": "KEML",
+          "code": "KEML-00802",
+          "display": "Insulin intermediate-acting (NPH) 100 IU/mL Injection"
         }
       ],
       "reason": "diabetes_stage",
@@ -306,9 +306,9 @@
       "type": "MedicationEnd",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "106892",
-          "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+          "system": "KEML",
+          "code": "KEML-00802",
+          "display": "Insulin intermediate-acting (NPH) 100 IU/mL Injection"
         }
       ],
       "direct_transition": "Prescribe_Prandial_Insulin"
@@ -317,9 +317,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "865098",
-          "display": "Insulin Lispro 100 UNT/ML Injectable Solution [Humalog]"
+          "system": "KEML",
+          "code": "KEML-00818",
+          "display": "Insulin Ultra short-acting 100 IU/mL Injection"
         }
       ],
       "reason": "diabetes_stage",
@@ -334,9 +334,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "106892",
-                "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+                "system": "KEML",
+                "code": "KEML-00802",
+                "display": "Insulin intermediate-acting (NPH) 100 IU/mL Injection"
               }
             ]
           },
@@ -347,9 +347,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "865098",
-                "display": "Insulin Lispro 100 UNT/ML Injectable Solution [Humalog]"
+                "system": "KEML",
+                "code": "KEML-00818",
+                "display": "Insulin Ultra short-acting 100 IU/mL Injection"
               }
             ]
           },
@@ -364,9 +364,9 @@
       "type": "MedicationEnd",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "106892",
-          "display": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+          "system": "KEML",
+          "code": "KEML-00802",
+          "display": "Insulin intermediate-acting (NPH) 100 IU/mL Injection"
         }
       ],
       "direct_transition": "Terminal"
@@ -375,9 +375,9 @@
       "type": "MedicationEnd",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "865098",
-          "display": "Insulin Lispro 100 UNT/ML Injectable Solution [Humalog]"
+          "system": "KEML",
+          "code": "KEML-00818",
+          "display": "Insulin Ultra short-acting 100 IU/mL Injection"
         }
       ],
       "direct_transition": "Terminal"

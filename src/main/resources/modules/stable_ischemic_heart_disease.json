@@ -180,9 +180,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309362,
-          "display": "Clopidogrel 75 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00348",
+          "display": "Clopidogrel 75mg Tablet"
         }
       ],
       "direct_transition": "Start_Simvastatin"
@@ -191,9 +191,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 312961,
-          "display": "Simvastatin 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00933",
+          "display": "Atorvastatin 5mg Tablet"
         }
       ],
       "direct_transition": "Start_Metoprolol"
@@ -202,9 +202,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 866412,
-          "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01049",
+          "display": "Metoprolol 25mg Extended Release Tablet"
         }
       ],
       "direct_transition": "Start_Nitroglycerin"
@@ -213,9 +213,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 705129,
-          "display": "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+          "system": "KEML",
+          "code": "KEML-00710",
+          "display": "Glyceryl trinitrate 400mcg/dose Sublingual Spray"
         }
       ],
       "distributed_transition": [

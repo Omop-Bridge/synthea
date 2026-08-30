@@ -204,9 +204,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1049630",
-          "display": "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00299",
+          "display": "Chlorpheniramine 2mg/5mL Oral Liquid"
         }
       ],
       "prescription": {
@@ -236,9 +236,9 @@
       "assign_to_attribute": "otc_antihistamine",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "477045",
-          "display": "Chlorpheniramine Maleate 2 MG/ML Oral Solution"
+          "system": "KEML",
+          "code": "KEML-00299",
+          "display": "Chlorpheniramine 2mg/5mL Oral Liquid"
         }
       ],
       "prescription": {
@@ -251,9 +251,9 @@
       "assign_to_attribute": "otc_antihistamine",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1363309",
-          "display": "Chlorpheniramine Maleate 4 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00299",
+          "display": "Chlorpheniramine 2mg/5mL Oral Liquid"
         }
       ],
       "prescription": {
@@ -271,9 +271,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "197378",
-          "display": "Astemizole 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00299",
+          "display": "Chlorpheniramine 2mg/5mL Oral Liquid"
         }
       ],
       "prescription": {
@@ -291,9 +291,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "141918",
-          "display": "Terfenadine 60 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00299",
+          "display": "Chlorpheniramine 2mg/5mL Oral Liquid"
         }
       ],
       "prescription": {
@@ -323,9 +323,9 @@
       "assign_to_attribute": "otc_antihistamine",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "665078",
-          "display": "Loratadine 5 MG Chewable Tablet"
+          "system": "KEML",
+          "code": "KEML-00956",
+          "display": "Loratadine 10mg Tablet"
         }
       ],
       "prescription": {
@@ -338,9 +338,9 @@
       "assign_to_attribute": "otc_antihistamine",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "311372",
-          "display": "Loratadine 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00956",
+          "display": "Loratadine 10mg Tablet"
         }
       ],
       "prescription": {
@@ -417,9 +417,9 @@
       "assign_to_attribute": "otc_antihistamine",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1014676",
-          "display": "cetirizine hydrochloride 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00290",
+          "display": "Cetirizine 1mg/mL Oral Liquid"
         }
       ],
       "prescription": {
@@ -432,9 +432,9 @@
       "assign_to_attribute": "otc_antihistamine",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1014678",
-          "display": "cetirizine hydrochloride 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00289",
+          "display": "Cetirizine 10mg Tablet"
         }
       ],
       "prescription": {

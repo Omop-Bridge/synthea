@@ -209,9 +209,9 @@
       "reason": "Sinusitis Condition",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "562251",
-          "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00060",
+          "display": "Amoxicillin + Clavulanic Acid 125+31.25mg/5mL Powder for Oral Liquid"
         }
       ],
       "direct_transition": "End_Encounter"
@@ -236,9 +236,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": "562251",
-                    "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00060",
+                    "display": "Amoxicillin + Clavulanic Acid 125+31.25mg/5mL Powder for Oral Liquid"
                   }
                 ]
               },
@@ -283,9 +283,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "562251",
-                "display": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00060",
+                "display": "Amoxicillin + Clavulanic Acid 125+31.25mg/5mL Powder for Oral Liquid"
               }
             ]
           },
@@ -534,9 +534,9 @@
       "reason": "Sinusitis Condition",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1649987,
-          "display": "doxycycline hyclate 100 MG"
+          "system": "KEML",
+          "code": "KEML-00520",
+          "display": "Doxycycline 100mg Capsule"
         }
       ],
       "direct_transition": "End_Encounter"

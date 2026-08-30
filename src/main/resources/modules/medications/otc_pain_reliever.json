@@ -138,9 +138,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "243670",
-          "display": "Aspirin 81 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-00010",
+          "display": "Acetylsalicylic acid 75mg Tablet",
           "value_set": ""
         }
       ],
@@ -171,9 +171,9 @@
       "assign_to_attribute": "otc_pain_reliever",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "313820",
-          "display": "Acetaminophen 160 MG Chewable Tablet",
+          "system": "KEML",
+          "code": "KEML-01199",
+          "display": "Paracetamol 120mg/5mL Oral Liquid",
           "value_set": ""
         }
       ],
@@ -187,9 +187,9 @@
       "assign_to_attribute": "otc_pain_reliever",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "313782",
-          "display": "Acetaminophen 325 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-01201",
+          "display": "Paracetamol 500mg Tablet",
           "value_set": ""
         }
       ],
@@ -207,8 +207,8 @@
             "condition_type": "Active Allergy",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "5640",
+                "system": "KEML",
+                "code": "KEML-00779",
                 "display": "Ibuprofen"
               }
             ]
@@ -240,9 +240,9 @@
       "assign_to_attribute": "otc_pain_reliever",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "198405",
-          "display": "Ibuprofen 100 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-00780",
+          "display": "Ibuprofen 100mg/5mL Oral Liquid",
           "value_set": ""
         }
       ],
@@ -256,9 +256,9 @@
       "assign_to_attribute": "otc_pain_reliever",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "310965",
-          "display": "Ibuprofen 200 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-00781",
+          "display": "Ibuprofen 200mg Tablet",
           "value_set": ""
         }
       ],

@@ -125,9 +125,9 @@
                 "condition_type": "Active Allergy",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 10831,
-                    "display": "Sulfamethoxazole / Trimethoprim"
+                    "system": "KEML",
+                    "code": "KEML-00380",
+                    "display": "Co-trimoxazole"
                   }
                 ]
               }
@@ -202,9 +202,9 @@
                 "condition_type": "Active Allergy",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 10831,
-                    "display": "Sulfamethoxazole / Trimethoprim"
+                    "system": "KEML",
+                    "code": "KEML-00380",
+                    "display": "Co-trimoxazole"
                   }
                 ]
               }
@@ -251,10 +251,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1648755,
-          "display": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-01127",
+          "display": "Nitrofurantoin 50mg/5mL Oral Liquid"
         }
       ],
       "reason": "uti",
@@ -277,10 +276,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1648756,
-          "display": "nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG [Macrobid]",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-01126",
+          "display": "Nitrofurantoin 100mg Tablet"
         }
       ],
       "reason": "uti",
@@ -303,10 +301,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 808917,
-          "display": "fosfomycin 3000 MG Granules for Oral Solution",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00659",
+          "display": "Fosfomycin 3g Granules"
         }
       ],
       "reason": "uti",
@@ -329,10 +326,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 198335,
-          "display": "sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00384",
+          "display": "Co-trimoxazole 800+160mg Tablet"
         }
       ],
       "reason": "uti",
@@ -355,10 +351,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 198335,
-          "display": "sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00384",
+          "display": "Co-trimoxazole 800+160mg Tablet"
         }
       ],
       "reason": "uti",
@@ -381,10 +376,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 198335,
-          "display": "sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00384",
+          "display": "Co-trimoxazole 800+160mg Tablet"
         }
       ],
       "reason": "uti",
@@ -407,10 +401,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 617296,
-          "display": "amoxicillin 500 MG / clavulanate 125 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00064",
+          "display": "Amoxicillin + Clavulanic Acid 875+125mg Tablet"
         }
       ],
       "reason": "uti",
@@ -421,10 +414,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 562508,
-          "display": "amoxicillin 875 MG / clavulanate 125 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00064",
+          "display": "Amoxicillin + Clavulanic Acid 875+125mg Tablet"
         }
       ],
       "reason": "uti",
@@ -447,10 +439,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 562508,
-          "display": "amoxicillin 875 MG / clavulanate 125 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00064",
+          "display": "Amoxicillin + Clavulanic Acid 875+125mg Tablet"
         }
       ],
       "reason": "uti",
@@ -473,10 +464,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 308192,
-          "display": "amoxicillin 500 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00054",
+          "display": "Amoxicillin 500mg Capsule"
         }
       ],
       "reason": "uti",
@@ -499,10 +489,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 197454,
-          "display": "cephalexin 500 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00268",
+          "display": "Cefalexin 250mg Capsule"
         }
       ],
       "reason": "uti",
@@ -525,10 +514,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 197454,
-          "display": "cephalexin 500 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00268",
+          "display": "Cefalexin 250mg Capsule"
         }
       ],
       "reason": "uti",
@@ -551,10 +539,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 197454,
-          "display": "cephalexin 500 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00268",
+          "display": "Cefalexin 250mg Capsule"
         }
       ],
       "reason": "uti",
@@ -577,10 +564,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 197511,
-          "display": "ciprofloxacin 250 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00315",
+          "display": "Ciprofloxacin 500mg Tablet"
         }
       ],
       "reason": "uti",
@@ -603,10 +589,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309309,
-          "display": "ciprofloxacin 500 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00315",
+          "display": "Ciprofloxacin 500mg Tablet"
         }
       ],
       "reason": "uti",
@@ -629,10 +614,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309309,
-          "display": "ciprofloxacin 500 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00315",
+          "display": "Ciprofloxacin 500mg Tablet"
         }
       ],
       "reason": "uti",
@@ -655,10 +639,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309076,
-          "display": "cefpodoxime 100 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00274",
+          "display": "Cefixime 400mg Tablet"
         }
       ],
       "reason": "uti",
@@ -681,10 +664,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309078,
-          "display": "cefpodoxime 200 MG Oral Tablet",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00274",
+          "display": "Cefixime 400mg Tablet"
         }
       ],
       "reason": "uti",
@@ -707,10 +689,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1665021,
-          "display": "ceftriaxone 1000 MG Injection",
-          "value_set": ""
+          "system": "KEML",
+          "code": "KEML-00283",
+          "display": "Ceftriaxone 1g Injection"
         }
       ],
       "reason": "uti",
@@ -798,9 +779,9 @@
                 "condition_type": "Active Allergy",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 10831,
-                    "display": "Sulfamethoxazole / Trimethoprim"
+                    "system": "KEML",
+                    "code": "KEML-00380",
+                    "display": "Co-trimoxazole"
                   }
                 ]
               }
@@ -879,9 +860,9 @@
                 "condition_type": "Active Allergy",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 10831,
-                    "display": "Sulfamethoxazole / Trimethoprim"
+                    "system": "KEML",
+                    "code": "KEML-00380",
+                    "display": "Co-trimoxazole"
                   }
                 ]
               }
@@ -956,9 +937,9 @@
                 "condition_type": "Active Allergy",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 10831,
-                    "display": "Sulfamethoxazole / Trimethoprim"
+                    "system": "KEML",
+                    "code": "KEML-00380",
+                    "display": "Co-trimoxazole"
                   }
                 ]
               }
@@ -1017,19 +998,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 197511,
-                    "display": "ciprofloxacin 250 MG Oral Tablet"
-                  }
-                ]
-              },
-              {
-                "condition_type": "Active Medication",
-                "codes": [
-                  {
-                    "system": "RxNorm",
-                    "code": 309309,
-                    "display": "ciprofloxacin 500 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00315",
+                    "display": "Ciprofloxacin 500mg Tablet"
                   }
                 ]
               }
