@@ -20,9 +20,9 @@
                 "condition_type": "Active Allergy",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 1191,
-                    "display": "Aspirin"
+                    "system": "KEML",
+                    "code": "KEML-00008",
+                    "display": "Acetylsalicylic acid"
                   }
                 ]
               },
@@ -30,9 +30,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 243670,
-                    "display": "aspirin 81 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00010",
+                    "display": "Acetylsalicylic acid 75mg Tablet"
                   }
                 ]
               }
@@ -166,9 +166,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 243670,
-          "display": "aspirin 81 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00010",
+          "display": "Acetylsalicylic acid 75mg Tablet"
         }
       ],
       "direct_transition": "BB Check"
@@ -248,9 +248,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": 749196,
-                "display": "clopidogrel 300 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00348",
+                "display": "Clopidogrel 75mg Tablet"
               }
             ]
           }
@@ -285,9 +285,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309362,
-          "display": "clopidogrel 75 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00348",
+          "display": "Clopidogrel 75mg Tablet"
         }
       ],
       "direct_transition": "End_Prior_Antiplatelet"

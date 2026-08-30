@@ -332,9 +332,9 @@
       "reason": "ADHD",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1091392",
-          "display": "Methylphenidate Hydrochloride 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01037",
+          "display": "Methylphenidate 10mg Tablet"
         }
       ],
       "distributed_transition": [
@@ -354,9 +354,9 @@
       "reason": "ADHD",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "608139",
-          "display": "atomoxetine 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-00112",
+          "display": "Atomoxetine 10mg Tablet"
         }
       ],
       "distributed_transition": [

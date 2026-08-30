@@ -26,9 +26,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1665060,
-          "display": "cefazolin 2000 MG Injection"
+          "system": "KEML",
+          "code": "KEML-00272",
+          "display": "Cefazolin 1g Powder for Injection"
         }
       ],
       "direct_transition": "Heparin",
@@ -38,9 +38,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1361226,
-          "display": "heparin sodium, porcine 1000 UNT/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-00730",
+          "display": "Heparin sodium 5,000 IU/mL Injection"
         }
       ],
       "direct_transition": "Activated Clotting Time",
@@ -51,9 +51,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1796676,
-          "display": "25 ML protamine sulfate (USP) 10 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-01339",
+          "display": "Protamine 10mg/mL Injection"
         }
       ],
       "direct_transition": "Blood",

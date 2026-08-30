@@ -592,9 +592,9 @@
       "assign_to_attribute": "beta_blocker",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "866412",
-          "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01050",
+          "display": "Metoprolol 50mg Extended Release Tablet"
         }
       ],
       "prescription": {
@@ -626,9 +626,9 @@
       "assign_to_attribute": "beta_blocker",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "866427",
-          "display": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01049",
+          "display": "Metoprolol 25mg Extended Release Tablet"
         }
       ],
       "prescription": {
@@ -643,9 +643,9 @@
       "assign_to_attribute": "beta_blocker",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "866429",
-          "display": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet [Toprol]"
+          "system": "KEML",
+          "code": "KEML-01049",
+          "display": "Metoprolol 25mg Extended Release Tablet"
         }
       ],
       "prescription": {
@@ -660,9 +660,9 @@
       "assign_to_attribute": "beta_blocker",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "866436",
-          "display": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01050",
+          "display": "Metoprolol 50mg Extended Release Tablet"
         }
       ],
       "prescription": {
@@ -677,9 +677,9 @@
       "assign_to_attribute": "beta_blocker",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "866438",
-          "display": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet [Toprol]"
+          "system": "KEML",
+          "code": "KEML-01050",
+          "display": "Metoprolol 50mg Extended Release Tablet"
         }
       ],
       "prescription": {

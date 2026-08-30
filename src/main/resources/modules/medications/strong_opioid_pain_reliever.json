@@ -118,9 +118,9 @@
       "assign_to_attribute": "opioid_prescription",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "864718",
-          "display": "Methadone Hydrochloride 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01021",
+          "display": "Methadone 5mg Tablet"
         }
       ],
       "prescription": {

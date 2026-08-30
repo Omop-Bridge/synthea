@@ -67,9 +67,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "312617",
-          "display": "predniSONE 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00446",
+          "display": "Dexamethasone 4mg Tablet"
         }
       ],
       "administration": true,

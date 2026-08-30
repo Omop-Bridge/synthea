@@ -484,9 +484,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "617310",
-          "display": "atorvastatin 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -518,9 +518,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "617320",
-          "display": "atorvastatin 40 MG Oral Tablet [Lipitor]"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -535,9 +535,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "259255",
-          "display": "atorvastatin 80 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0116",
+          "display": "Atorvastatin 80mg Tablet"
         }
       ],
       "prescription": {
@@ -552,9 +552,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "476349",
-          "display": "ezetimibe 10 MG / simvastatin 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -586,9 +586,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1245441",
-          "display": "ezetimibe 10 MG / simvastatin 40 MG Oral Tablet [Vytorin]"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -603,9 +603,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "476351",
-          "display": "ezetimibe 10 MG / simvastatin 80 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0116",
+          "display": "Atorvastatin 80mg Tablet"
         }
       ],
       "prescription": {
@@ -620,9 +620,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "197903",
-          "display": "lovastatin 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -637,9 +637,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "197904",
-          "display": "lovastatin 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -654,9 +654,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "197905",
-          "display": "lovastatin 40 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -671,9 +671,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "861646",
-          "display": "pitavastatin calcium 1 MG Oral Tablet [Livalo]"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -688,9 +688,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "861650",
-          "display": "pitavastatin calcium 2 MG Oral Tablet [Livalo]"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -705,9 +705,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "861654",
-          "display": "pitavastatin calcium 4 MG Oral Tablet [Livalo]"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -722,9 +722,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "904458",
-          "display": "pravastatin sodium 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -739,9 +739,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "904467",
-          "display": "pravastatin sodium 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -756,9 +756,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "904475",
-          "display": "pravastatin sodium 40 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -773,9 +773,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "904477",
-          "display": "pravastatin sodium 40 MG Oral Tablet [Pravachol]"
+          "system": "KEML",
+          "code": "KEML-0116",
+          "display": "Atorvastatin 80mg Tablet"
         }
       ],
       "prescription": {
@@ -790,9 +790,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "904481",
-          "display": "pravastatin sodium 80 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -807,9 +807,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859747",
-          "display": "rosuvastatin calcium 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -824,9 +824,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859749",
-          "display": "rosuvastatin calcium 10 MG Oral Tablet [Crestor]"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -841,9 +841,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859751",
-          "display": "rosuvastatin calcium 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -858,9 +858,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859753",
-          "display": "rosuvastatin calcium 20 MG Oral Tablet [Crestor]"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -875,9 +875,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859419",
-          "display": "rosuvastatin calcium 40 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -892,9 +892,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859421",
-          "display": "rosuvastatin calcium 40 MG Oral Tablet [Crestor]"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -909,9 +909,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859424",
-          "display": "rosuvastatin calcium 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -926,9 +926,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "859426",
-          "display": "rosuvastatin calcium 5 MG Oral Tablet [Crestor]"
+          "system": "KEML",
+          "code": "KEML-0116",
+          "display": "Atorvastatin 80mg Tablet"
         }
       ],
       "prescription": {
@@ -943,9 +943,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "314231",
-          "display": "simvastatin 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -960,9 +960,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "312961",
-          "display": "simvastatin 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -977,9 +977,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "198211",
-          "display": "simvastatin 40 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {
@@ -994,9 +994,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "312962",
-          "display": "simvastatin 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0114",
+          "display": "Atorvastatin 20mg Tablet"
         }
       ],
       "prescription": {
@@ -1011,9 +1011,9 @@
       "assign_to_attribute": "statin",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "200345",
-          "display": "simvastatin 80 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-0115",
+          "display": "Atorvastatin 40mg Tablet"
         }
       ],
       "prescription": {

@@ -3,7 +3,7 @@
   "remarks": [
     "The Diabetic Retinopathy Treatment top-level module represents the ophthalmic treatment cycle a patient with diabetes will go through after diagnosis. This module starts with a Guard state that allows only patients with an active diagnosis diabetes, then two possible paths prior to their first encounter: some patients follow recommended practices and will seek an ophthalmologist for screening right away after the diabetes diagnosis, some patients will wait until there are significant symptoms. Once a patient is in the treatment cycle, they will continue to have encounters based on the recommended follow-up schedule for their disease status.",
     "",
-    "At the start of each encounter, the OphthalmicProgression submodule is called to align various attributes with the patient’s current disease status, so that those attributes can be read at the subsequent examination states. Then the patient will have basic exams performed:",
+    "At the start of each encounter, the OphthalmicProgression submodule is called to align various attributes with the patient's current disease status, so that those attributes can be read at the subsequent examination states. Then the patient will have basic exams performed:",
     " - visual acuity (via the Visual Acuity submodule),",
     " - intraocular pressure (via the Intraocular Pressure submodule),",
     " - slit-lamp,",
@@ -508,9 +508,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1191013,
-          "display": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution"
+          "system": "KEML",
+          "code": "KEML-01327",
+          "display": "Proparacaine 0.5% Eye Drops"
         }
       ],
       "direct_transition": "End_Drops_Panretinal",
@@ -520,9 +520,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1191013,
-          "display": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution"
+          "system": "KEML",
+          "code": "KEML-01327",
+          "display": "Proparacaine 0.5% Eye Drops"
         }
       ],
       "direct_transition": "End_Drops_Grid",
@@ -532,9 +532,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1191013,
-          "display": "proparacaine hydrochloride 5 MG/ML Ophthalmic Solution"
+          "system": "KEML",
+          "code": "KEML-01327",
+          "display": "Proparacaine 0.5% Eye Drops"
         }
       ],
       "direct_transition": "End_Drops_AntiVEGF",
@@ -544,9 +544,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 313521,
-          "display": "tropicamide 5 MG/ML Ophthalmic Solution"
+          "system": "KEML",
+          "code": "KEML-00390",
+          "display": "Cyclopentolate 1% Eye Drops"
         }
       ],
       "direct_transition": "End_Dilation_Med",

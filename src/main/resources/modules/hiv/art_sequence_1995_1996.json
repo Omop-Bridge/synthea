@@ -51,9 +51,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 199663,
-          "display": "zidovudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01759",
+          "display": "Zidovudine 300mg Tablet"
         }
       ],
       "direct_transition": "Assign Regimen",
@@ -132,9 +132,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 349491,
-          "display": "lamivudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00867",
+          "display": "Lamivudine 150mg Tablet"
         }
       ],
       "direct_transition": "Terminal",

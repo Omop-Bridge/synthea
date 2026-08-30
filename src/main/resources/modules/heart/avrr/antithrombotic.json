@@ -44,9 +44,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 855332,
-          "display": "warfarin sodium 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01748",
+          "display": "Warfarin 5mg Tablet"
         }
       ],
       "direct_transition": "Terminal",
@@ -57,9 +57,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 2563431,
-          "display": "aspirin 81 MG Oral Capsule [Vazalore]"
+          "system": "KEML",
+          "code": "KEML-00010",
+          "display": "Acetylsalicylic acid 75mg Tablet"
         }
       ],
       "chronic": true,
@@ -104,9 +104,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 855332,
-          "display": "warfarin sodium 5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01748",
+          "display": "Warfarin 5mg Tablet"
         }
       ],
       "direct_transition": "Terminal",
@@ -129,9 +129,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309362,
-          "display": "clopidogrel 75 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00348",
+          "display": "Clopidogrel 75mg Tablet"
         }
       ],
       "direct_transition": "Terminal",

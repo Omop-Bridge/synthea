@@ -180,9 +180,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "312615",
-          "display": "predniSONE 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00446",
+          "display": "Dexamethasone 4mg Tablet"
         }
       ],
       "direct_transition": "End_Diagnosis_Encounter"
@@ -272,9 +272,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "241834",
-          "display": "cycloSPORINE, modified 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-00399",
+          "display": "Cyclosporin 100mg Capsule"
         }
       ],
       "direct_transition": "Flareup_Corticosteroid"
@@ -290,9 +290,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "312615",
-          "display": "predniSONE 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00446",
+          "display": "Dexamethasone 4mg Tablet"
         }
       ],
       "direct_transition": "End_Flareup_Encounter"

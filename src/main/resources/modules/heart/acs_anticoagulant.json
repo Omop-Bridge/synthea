@@ -72,9 +72,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1361048,
-          "display": "heparin sodium, porcine 100 UNT/ML Injectable Solution"
+          "system": "KEML",
+          "code": "KEML-00730",
+          "display": "Heparin sodium 5,000 IU/mL Injection"
         }
       ],
       "direct_transition": "Terminal",

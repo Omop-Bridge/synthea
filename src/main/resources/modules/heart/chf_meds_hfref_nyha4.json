@@ -16,9 +16,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "313988",
-          "display": "Furosemide 40 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00663",
+          "display": "Furosemide 40mg Tablet"
         }
       ],
       "reason": "chf",
@@ -42,9 +42,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 200033,
-          "display": "carvedilol 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00266",
+          "display": "Carvedilol 25mg Tablet"
         }
       ],
       "reason": "chf",
@@ -81,9 +81,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 314077,
-          "display": "lisinopril 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00540",
+          "display": "Enalapril 10mg Tablet"
         }
       ],
       "reason": "chf",
@@ -107,9 +107,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 979492,
-          "display": "losartan potassium 50 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00960",
+          "display": "Losartan 50mg Tablet"
         }
       ],
       "reason": "chf",
@@ -254,9 +254,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 313096,
-          "display": "spironolactone 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01516",
+          "display": "Spironolactone 25mg Tablet"
         }
       ],
       "reason": "chf",
@@ -306,9 +306,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 197604,
-          "display": "digoxin 0.125 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00472",
+          "display": "Digoxin 250mcg Tablet"
         }
       ],
       "reason": "chf",

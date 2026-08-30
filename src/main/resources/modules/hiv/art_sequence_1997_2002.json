@@ -112,9 +112,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 199663,
-          "display": "zidovudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01759",
+          "display": "Zidovudine 300mg Tablet"
         }
       ],
       "reason": "hiv_diagnosis",
@@ -248,9 +248,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 349491,
-          "display": "lamivudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00867",
+          "display": "Lamivudine 150mg Tablet"
         }
       ],
       "direct_transition": "Drug 3",
@@ -275,9 +275,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 200082,
-          "display": "lamivudine 150 MG / zidovudine 300 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01764",
+          "display": "Zidovudine + Lamivudine 300+150mg Tablet"
         }
       ],
       "direct_transition": "Drug 3",
@@ -454,9 +454,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 317150,
-          "display": "ritonavir 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-01418",
+          "display": "Ritonavir 100mg Tablet"
         }
       ],
       "direct_transition": "Terminal",
@@ -481,9 +481,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 317150,
-          "display": "ritonavir 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-01418",
+          "display": "Ritonavir 100mg Tablet"
         }
       ],
       "direct_transition": "Terminal",
@@ -535,9 +535,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 349477,
-          "display": "efavirenz 600 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01611",
+          "display": "Efavirenz"
         }
       ],
       "direct_transition": "Terminal",
@@ -562,9 +562,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 597730,
-          "display": "lopinavir 200 MG / ritonavir 50 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00953",
+          "display": "Lopinavir + ritonavir 200+50mg Tablet"
         }
       ],
       "direct_transition": "Terminal",

@@ -399,9 +399,9 @@
       "reason": "Bronchitis_Infection",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "313782",
-          "display": "Acetaminophen 325 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01201",
+          "display": "Paracetamol 500mg Tablet"
         }
       ],
       "direct_transition": "End_Doctor_Visit"

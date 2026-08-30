@@ -588,9 +588,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 905269,
-          "display": "Trihexyphenidyl Hydrochloride 2 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00143",
+          "display": "Benzhexol 5mg Tablet"
         }
       ],
       "direct_transition": "End_Cerebral_Palsy_Encounter1",
@@ -665,9 +665,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": 905269,
-                "display": "trihexyphenidyl hydrochloride 2 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00143",
+                "display": "Benzhexol 5mg Tablet"
               }
             ]
           }
@@ -816,9 +816,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": 905269,
-                "display": "trihexyphenidyl hydrochloride 2 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00143",
+                "display": "Benzhexol 5mg Tablet"
               }
             ]
           }
@@ -1330,9 +1330,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1190766,
-          "display": "atropine sulfate 0.31 MG/ML Ophthalmic Solution"
+          "system": "KEML",
+          "code": "KEML-00120",
+          "display": "Atropine 1mg/1mL Injection"
         }
       ],
       "direct_transition": "End_Cerebral_Palsy_Encounter1",

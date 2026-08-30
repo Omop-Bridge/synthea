@@ -381,9 +381,9 @@
       "reason": "dermatitis",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "106258",
-          "display": "Hydrocortisone 10 MG/ML Topical Cream"
+          "system": "KEML",
+          "code": "KEML-00758",
+          "display": "Hydrocortisone 5mg Tablet"
         }
       ],
       "prescription": {
@@ -563,9 +563,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "241834",
-          "display": "cycloSPORINE, modified 100 MG Oral Capsule"
+          "system": "KEML",
+          "code": "KEML-00399",
+          "display": "Cyclosporin 100mg Capsule"
         }
       ],
       "prescription": {
@@ -587,9 +587,9 @@
       "reason": "dermatitis",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "106258",
-          "display": "Hydrocortisone 10 MG/ML Topical Cream"
+          "system": "KEML",
+          "code": "KEML-00758",
+          "display": "Hydrocortisone 5mg Tablet"
         }
       ],
       "prescription": {
@@ -610,9 +610,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "241834",
-                "display": "cycloSPORINE, modified 100 MG Oral Capsule"
+                "system": "KEML",
+                "code": "KEML-00399",
+                "display": "Cyclosporin 100mg Capsule"
               }
             ]
           },

@@ -351,9 +351,9 @@
       "reason": "Type of Alzheimer's",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "997223",
-          "display": "Donepezil hydrochloride 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00510",
+          "display": "Donepezil 10mg Tablet"
         }
       ],
       "direct_transition": "End_Diagnosis_Encounter"
@@ -365,7 +365,7 @@
       "codes": [
         {
           "system": "RxNorm",
-          "code": "313185",
+          "code": 313185,
           "display": "Tacrine 10 MG Oral Capsule"
         }
       ],
@@ -520,7 +520,7 @@
       "codes": [
         {
           "system": "RxNorm",
-          "code": "1599803",
+          "code": 1599803,
           "display": "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule"
         }
       ],
@@ -532,7 +532,7 @@
       "codes": [
         {
           "system": "RxNorm",
-          "code": "996740",
+          "code": 996740,
           "display": "Memantine hydrochloride 2 MG/ML Oral Solution"
         }
       ],
@@ -543,9 +543,9 @@
       "reason": "Type of Alzheimer's",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1100184",
-          "display": "Donepezil hydrochloride 23 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00510",
+          "display": "Donepezil 10mg Tablet"
         }
       ],
       "direct_transition": "End_ModeratelySevere_Encounter"

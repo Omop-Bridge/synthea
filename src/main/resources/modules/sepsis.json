@@ -84,9 +84,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1659131,
-          "display": "piperacillin 2000 MG / tazobactam 250 MG Injection"
+          "system": "KEML",
+          "code": "KEML-01266",
+          "display": "Piperacillin + Tazobactam 4g+0.5g Powder for Injection"
         }
       ],
       "reason": "Sepsis",
@@ -97,9 +97,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1807510,
-          "display": "150 ML vancomycin 5 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-01713",
+          "display": "Vancomycin 500mg Powder for Injection"
         }
       ],
       "reason": "Sepsis",
@@ -371,9 +371,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 242969,
-          "display": "4 ML norepinephrine 1 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-01133",
+          "display": "Norepinephrine 1mg/mL Injection"
         }
       ],
       "direct_transition": "Record_Blood_Pressure",

@@ -203,9 +203,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "197541",
-          "display": "Colchicine 0.6 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00365",
+          "display": "Colchicine 500mcg Tablet"
         }
       ],
       "direct_transition": "Uric_Acid_Reducer"
@@ -215,9 +215,9 @@
       "reason": "Gout",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "197319",
-          "display": "Allopurinol 100 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00025",
+          "display": "Allopurinol 100mg Tablet"
         }
       ],
       "direct_transition": "End_Diagnosis_Encounter"

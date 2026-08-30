@@ -244,9 +244,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": 310798,
-                "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00755",
+                "display": "Hydrochlorothiazide 25mg Tablet"
               }
             ]
           },
@@ -287,9 +287,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 314076,
-                    "display": "lisinopril 10 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00540",
+                    "display": "Enalapril 10mg Tablet"
                   }
                 ]
               },
@@ -297,9 +297,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 310798,
-                    "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00755",
+                    "display": "Hydrochlorothiazide 25mg Tablet"
                   }
                 ]
               }
@@ -315,9 +315,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 314076,
-                    "display": "lisinopril 10 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00540",
+                    "display": "Enalapril 10mg Tablet"
                   }
                 ]
               },
@@ -325,9 +325,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 308136,
-                    "display": "amLODIPine 2.5 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00049",
+                    "display": "Amlodipine 5mg Tablet"
                   }
                 ]
               }
@@ -343,9 +343,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 308136,
-                    "display": "amLODIPine 2.5 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00049",
+                    "display": "Amlodipine 5mg Tablet"
                   }
                 ]
               },
@@ -353,9 +353,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 310798,
-                    "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00755",
+                    "display": "Hydrochlorothiazide 25mg Tablet"
                   }
                 ]
               }
@@ -376,9 +376,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 310798,
-                    "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00755",
+                    "display": "Hydrochlorothiazide 25mg Tablet"
                   }
                 ]
               },
@@ -386,9 +386,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 314076,
-                    "display": "lisinopril 10 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00540",
+                    "display": "Enalapril 10mg Tablet"
                   }
                 ]
               }
@@ -404,9 +404,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 310798,
-                    "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00755",
+                    "display": "Hydrochlorothiazide 25mg Tablet"
                   }
                 ]
               },
@@ -414,9 +414,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 308136,
-                    "display": "amLODIPine 2.5 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00049",
+                    "display": "Amlodipine 5mg Tablet"
                   }
                 ]
               }
@@ -432,9 +432,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 308136,
-                    "display": "amLODIPine 2.5 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00049",
+                    "display": "Amlodipine 5mg Tablet"
                   }
                 ]
               },
@@ -442,9 +442,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 314076,
-                    "display": "lisinopril 10 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00540",
+                    "display": "Enalapril 10mg Tablet"
                   }
                 ]
               }
@@ -484,9 +484,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 308136,
-          "display": "amLODIPine 2.5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00049",
+          "display": "Amlodipine 5mg Tablet"
         }
       ],
       "chronic": true,
@@ -510,9 +510,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 308136,
-          "display": "amLODIPine 2.5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00049",
+          "display": "Amlodipine 5mg Tablet"
         }
       ],
       "chronic": true,
@@ -536,9 +536,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 314076,
-          "display": "lisinopril 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00540",
+          "display": "Enalapril 10mg Tablet"
         }
       ],
       "chronic": true,
@@ -562,9 +562,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 310798,
-          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00755",
+          "display": "Hydrochlorothiazide 25mg Tablet"
         }
       ],
       "prescription": {
@@ -588,9 +588,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 310798,
-          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00755",
+          "display": "Hydrochlorothiazide 25mg Tablet"
         }
       ],
       "prescription": {
@@ -614,9 +614,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 310798,
-          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00755",
+          "display": "Hydrochlorothiazide 25mg Tablet"
         }
       ],
       "prescription": {
@@ -640,9 +640,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 308136,
-          "display": "amLODIPine 2.5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00049",
+          "display": "Amlodipine 5mg Tablet"
         }
       ],
       "chronic": true,
@@ -666,9 +666,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 314076,
-          "display": "lisinopril 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00540",
+          "display": "Enalapril 10mg Tablet"
         }
       ],
       "chronic": true,
@@ -692,9 +692,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 310798,
-          "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00755",
+          "display": "Hydrochlorothiazide 25mg Tablet"
         }
       ],
       "prescription": {
@@ -718,9 +718,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 314076,
-          "display": "lisinopril 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00540",
+          "display": "Enalapril 10mg Tablet"
         }
       ],
       "chronic": true,
@@ -744,9 +744,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 308136,
-          "display": "amLODIPine 2.5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00049",
+          "display": "Amlodipine 5mg Tablet"
         }
       ],
       "chronic": true,
@@ -920,9 +920,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": 314076,
-                "display": "lisinopril 10 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00540",
+                "display": "Enalapril 10mg Tablet"
               }
             ]
           },
@@ -942,9 +942,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": 308136,
-                "display": "amLODIPine 2.5 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00049",
+                "display": "Amlodipine 5mg Tablet"
               }
             ]
           },
@@ -964,9 +964,9 @@
             "condition_type": "Active Medication",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": 310798,
-                "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                "system": "KEML",
+                "code": "KEML-00755",
+                "display": "Hydrochlorothiazide 25mg Tablet"
               }
             ]
           },
@@ -995,9 +995,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 314076,
-                    "display": "lisinopril 10 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00540",
+                    "display": "Enalapril 10mg Tablet"
                   }
                 ]
               },
@@ -1005,9 +1005,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 310798,
-                    "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00755",
+                    "display": "Hydrochlorothiazide 25mg Tablet"
                   }
                 ]
               }
@@ -1023,9 +1023,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 314076,
-                    "display": "lisinopril 10 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00540",
+                    "display": "Enalapril 10mg Tablet"
                   }
                 ]
               },
@@ -1033,9 +1033,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 308136,
-                    "display": "amLODIPine 2.5 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00049",
+                    "display": "Amlodipine 5mg Tablet"
                   }
                 ]
               }
@@ -1051,9 +1051,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 308136,
-                    "display": "amLODIPine 2.5 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00049",
+                    "display": "Amlodipine 5mg Tablet"
                   }
                 ]
               },
@@ -1061,9 +1061,9 @@
                 "condition_type": "Active Medication",
                 "codes": [
                   {
-                    "system": "RxNorm",
-                    "code": 310798,
-                    "display": "Hydrochlorothiazide 25 MG Oral Tablet"
+                    "system": "KEML",
+                    "code": "KEML-00755",
+                    "display": "Hydrochlorothiazide 25mg Tablet"
                   }
                 ]
               }
@@ -1076,9 +1076,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 314076,
-          "display": "lisinopril 10 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00540",
+          "display": "Enalapril 10mg Tablet"
         }
       ],
       "chronic": true,
@@ -1119,9 +1119,9 @@
             "condition_type": "Active Allergy",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "29046",
-                "display": "Lisinopril"
+                "system": "KEML",
+                "code": "KEML-00540",
+                "display": "Enalapril 10mg Tablet"
               }
             ]
           }
@@ -1135,9 +1135,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 979485,
-          "display": "losartan potassium 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00960",
+          "display": "Losartan 50mg Tablet"
         }
       ],
       "direct_transition": "Terminal",
@@ -1166,9 +1166,9 @@
             "condition_type": "Active Allergy",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "29046",
-                "display": "Lisinopril"
+                "system": "KEML",
+                "code": "KEML-00540",
+                "display": "Enalapril 10mg Tablet"
               }
             ]
           }
@@ -1182,9 +1182,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 979485,
-          "display": "losartan potassium 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00960",
+          "display": "Losartan 50mg Tablet"
         }
       ],
       "direct_transition": "Terminal",
@@ -1213,9 +1213,9 @@
             "condition_type": "Active Allergy",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "29046",
-                "display": "Lisinopril"
+                "system": "KEML",
+                "code": "KEML-00540",
+                "display": "Enalapril 10mg Tablet"
               }
             ]
           }
@@ -1229,9 +1229,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 979485,
-          "display": "losartan potassium 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00960",
+          "display": "Losartan 50mg Tablet"
         }
       ],
       "direct_transition": "Terminal",
@@ -1260,9 +1260,9 @@
             "condition_type": "Active Allergy",
             "codes": [
               {
-                "system": "RxNorm",
-                "code": "29046",
-                "display": "Lisinopril"
+                "system": "KEML",
+                "code": "KEML-00540",
+                "display": "Enalapril 10mg Tablet"
               }
             ]
           }
@@ -1276,9 +1276,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 979485,
-          "display": "losartan potassium 25 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00960",
+          "display": "Losartan 50mg Tablet"
         }
       ],
       "direct_transition": "Amlodipine_2",

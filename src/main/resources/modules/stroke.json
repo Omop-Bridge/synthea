@@ -111,9 +111,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 309362,
-          "display": "Clopidogrel 75 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00348",
+          "display": "Clopidogrel 75mg Tablet"
         }
       ],
       "direct_transition": "Alteplase"
@@ -122,9 +122,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1804799,
-          "display": "Alteplase 100 MG Injection"
+          "system": "KEML",
+          "code": "KEML-00032",
+          "display": "Alteplase 100mg Powder for Injection"
         }
       ],
       "direct_transition": "Echocardiogram"

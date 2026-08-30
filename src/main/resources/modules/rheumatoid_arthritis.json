@@ -188,9 +188,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "105585",
-          "display": "Methotrexate 2.5 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01025",
+          "display": "Methotrexate 2.5mg Tablet"
         }
       ],
       "direct_transition": "Encounter_Ends_After_DMARD"
@@ -235,9 +235,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "312615",
-          "display": "predniSONE 20 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-00446",
+          "display": "Dexamethasone 4mg Tablet"
         }
       ],
       "direct_transition": "Encounter_Ends_After_Corticosteroids"

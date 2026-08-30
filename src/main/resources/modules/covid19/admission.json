@@ -418,9 +418,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "198440",
-          "display": "Acetaminophen 500 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01201",
+          "display": "Paracetamol 500mg Tablet"
         }
       ],
       "administration": true,
@@ -480,9 +480,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "198440",
-          "display": "Acetaminophen 500 MG Oral Tablet"
+          "system": "KEML",
+          "code": "KEML-01201",
+          "display": "Paracetamol 500mg Tablet"
         }
       ],
       "administration": true,
@@ -582,9 +582,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "242969",
-          "display": "4 ML Norepinephrine 1 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-01133",
+          "display": "Norepinephrine 1mg/mL Injection"
         }
       ],
       "direct_transition": "Vasopressor B",
@@ -1109,9 +1109,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1807513,
-          "display": "vancomycin 1000 MG Injection"
+          "system": "KEML",
+          "code": "KEML-01713",
+          "display": "Vancomycin 500mg Powder for Injection"
         }
       ],
       "direct_transition": "piperacillin-tazobactam",
@@ -1122,9 +1122,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1659149,
-          "display": "piperacillin 4000 MG / tazobactam 500 MG Injection"
+          "system": "KEML",
+          "code": "KEML-01266",
+          "display": "Piperacillin + Tazobactam 4g+0.5g Powder for Injection"
         }
       ],
       "reason": "covid19_bacterial_infection",

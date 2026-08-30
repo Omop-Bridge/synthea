@@ -171,9 +171,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "105078",
-          "display": "Penicillin G 375 MG/ML Injectable Solution",
+          "system": "KEML",
+          "code": "KEML-00153",
+          "display": "Benzylpenicillin 600mg (1MU) Powder for Injection",
           "value_set": ""
         }
       ],
@@ -208,9 +208,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "789980",
-          "display": "Ampicillin 100 MG/ML Injectable Solution",
+          "system": "KEML",
+          "code": "KEML-00070",
+          "display": "Ampicillin 500mg+100mg Powder for Injection",
           "value_set": ""
         }
       ],
@@ -261,9 +261,9 @@
       "assign_to_attribute": "antibiotic_prescription",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1652673",
-          "display": "Doxycycline Monohydrate 50 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-00520",
+          "display": "Doxycycline 100mg Capsule",
           "value_set": ""
         }
       ],
@@ -298,9 +298,9 @@
       "assign_to_attribute": "antibiotic_prescription",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "1650142",
-          "display": "Doxycycline Monohydrate 100 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-00520",
+          "display": "Doxycycline 100mg Capsule",
           "value_set": ""
         }
       ],
@@ -352,9 +352,9 @@
       "assign_to_attribute": "antibiotic_prescription",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "308182",
-          "display": "Amoxicillin 250 MG Oral Capsule",
+          "system": "KEML",
+          "code": "KEML-00053",
+          "display": "Amoxicillin 250mg Capsule",
           "value_set": ""
         }
       ],
@@ -384,9 +384,9 @@
       "assign_to_attribute": "antibiotic_prescription",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "308192",
-          "display": "Amoxicillin 500 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-00054",
+          "display": "Amoxicillin 500mg Capsule",
           "value_set": ""
         }
       ],
@@ -500,9 +500,9 @@
       ],
       "codes": [
         {
-          "system": "RxNorm",
-          "code": "309097",
-          "display": "Cefuroxime 250 MG Oral Tablet",
+          "system": "KEML",
+          "code": "KEML-00285",
+          "display": "Cefuroxime 750mg Powder for Injection",
           "value_set": ""
         }
       ],
@@ -589,9 +589,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 141962,
-          "display": "Azithromycin 250 MG Oral Capsule",
+          "system": "KEML",
+          "code": "KEML-00128",
+          "display": "Azithromycin 500mg Tablet",
           "value_set": ""
         }
       ],

@@ -371,9 +371,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 1860480,
-          "display": "1 ML DOCEtaxel 20 MG/ML Injection"
+          "system": "KEML",
+          "code": "KEML-00499",
+          "display": "Docetaxel 20mg Injection"
         }
       ],
       "direct_transition": "Chemotherapy_Hormone Order2",
@@ -509,9 +509,9 @@
       "type": "MedicationOrder",
       "codes": [
         {
-          "system": "RxNorm",
-          "code": 752899,
-          "display": "0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe"
+          "system": "KEML",
+          "code": "KEML-00893",
+          "display": "Leuprorelin 3.75mg Injection"
         }
       ],
       "conditional_transition": [
